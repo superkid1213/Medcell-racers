@@ -1,2 +1,0 @@
-# Medcell-racers
-yarış
